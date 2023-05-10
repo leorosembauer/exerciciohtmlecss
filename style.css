@@ -1,0 +1,24 @@
+h1 {
+  color: black;
+  font-family: Arial;
+}
+h2 p a {
+  color: seagreen;
+  font-family: Arial;
+}
+.estado {
+  color: seagreen;
+}
+.hoje {
+  color: darkred;
+  font-size: 20px;
+  font-family: Arial;
+}
+.amanha {
+  color: darkblue;
+  font-size: 20px;
+  font-family: Arial;
+}
+.link {
+  font-family: Arial;
+}
